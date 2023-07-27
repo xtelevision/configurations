@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": "37992",
+      "key": "新浪资源",
+      "note": "9.4",
+      "types": "剧情 / 科幻 / 冒险",
+      "title": "星际穿越",
+      "description": "窥见未知星球和黑洞的壮伟与神秘",
+      "cover": "https://raw.githubusercontent.com/xtelevision/configurations/main/home/banner/1.jpg",
+      "area": "2014 / 美国 / 英国 / 加拿大 / 169分钟"
+    },
+    {
+      "id": "76358",
+      "key": "新浪资源",
+      "note": "9.7",
+      "types": "剧情 / 犯罪",
+      "title": "肖申克的救赎",
+      "description": "一场暗藏几十年的越狱计划让他自我救赎",
+      "cover": "https://raw.githubusercontent.com/xtelevision/configurations/main/home/banner/2.jpg",
+      "area": "1994 / 美国 / 142分钟"
+    },
+    {
+      "id": "94498",
+      "key": "新浪资源",
+      "note": "7.4",
+      "types": "真人秀",
+      "title": "奔跑吧 第七季",
+      "description": "本季主题是开启美好奇幻旅程 跑男齐动脑",
+      "cover": "https://raw.githubusercontent.com/xtelevision/configurations/main/home/banner/3.jpg",
+      "area": "2023 / 中国大陆 / 综艺"
+    },
+    {
+      "id": "39239",
+      "key": "新浪资源",
+      "note": "9.1",
+      "types": "剧情 / 奇幻 / 冒险",
+      "title": "少年派的奇幻漂流",
+      "description": "帕克和一只孟加拉老虎的神奇冒险旅程",
+      "cover": "https://raw.githubusercontent.com/xtelevision/configurations/main/home/banner/4.jpg",
+      "area": "2012 / 美国 / 中国台湾 / 英国 / 加拿大 / 127分钟"
+    },
+    {
+      "id": "67523",
+      "key": "新浪资源",
+      "note": "8.8",
+      "types": "喜剧 / 动作 / 犯罪 / 奇幻",
+      "title": "功夫",
+      "description": "蠄蚷变绝世高手",
+      "cover": "https://raw.githubusercontent.com/xtelevision/configurations/main/home/banner/5.jpg",
+      "area": "2004 / 中国香港 / 100分钟"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "tvid": "1",
+      "name": "CCTV1",
+      "picUrl": "https://raw.githubusercontent.com/xtelevision/configurations/main/live/cctv/cctv1.png"
+    },
+    {
+      "tvid": "2",
+      "name": "CCTV2",
+      "picUrl": "https://raw.githubusercontent.com/xtelevision/configurations/main/live/cctv/cctv2.png"
+    },
+    {
+      "tvid": "3",
+      "name": "CCTV3",
+      "picUrl": "https://raw.githubusercontent.com/xtelevision/configurations/main/live/cctv/cctv3.png"
+    },
+    {
+      "tvid": "4",
+      "name": "CCTV4",
+      "picUrl": "https://raw.githubusercontent.com/xtelevision/configurations/main/live/cctv/cctv4.png"
+    },
+    {
+      "tvid": "5",
+      "name": "CCTV5",
+      "picUrl": "https://raw.githubusercontent.com/xtelevision/configurations/main/live/cctv/cctv5.png"
+    },
+    {
+      "tvid": "6",
+      "name": "CCTV6",
+      "picUrl": "https://raw.githubusercontent.com/xtelevision/configurations/main/live/cctv/cctv6.png"
+    },
+    {
+      "tvid": "7",
+      "name": "CCTV7",
+      "picUrl": "https://raw.githubusercontent.com/xtelevision/configurations/main/live/cctv/cctv7.png"
+    },
+    {
+      "tvid": "8",
+      "name": "CCTV8",
+      "picUrl": "https://raw.githubusercontent.com/xtelevision/configurations/main/live/cctv/cctv8.png"
+    },
+    {
+      "tvid": "9",
+      "name": "CCTV9",
+      "picUrl": "https://raw.githubusercontent.com/xtelevision/configurations/main/live/cctv/cctv9.png"
+    },
+    {
+      "tvid": "10",
+      "name": "CCTV10",
+      "picUrl": "https://raw.githubusercontent.com/xtelevision/configurations/main/live/cctv/cctv10.png"
+    },
+    {
+      "tvid": "11",
+      "name": "CCTV11",
+      "picUrl": "https://raw.githubusercontent.com/xtelevision/configurations/main/live/cctv/cctv11.png"
+    },
+    {
+      "tvid": "12",
+      "name": "CCTV12",
+      "picUrl": "https://raw.githubusercontent.com/xtelevision/configurations/main/live/cctv/cctv12.png"
+    },
+    {
+      "tvid": "13",
+      "name": "CCTV13",
+      "picUrl": "https://raw.githubusercontent.com/xtelevision/configurations/main/live/cctv/cctv13.png"
+    },
+    {
+      "tvid": "14",
+      "name": "CCTV14",
+      "picUrl": "https://raw.githubusercontent.com/xtelevision/configurations/main/live/cctv/cctv14.png"
+    },
+    {
+      "tvid": "15",
+      "name": "CCTV15",
+      "picUrl": "https://raw.githubusercontent.com/xtelevision/configurations/main/live/cctv/cctv15.png"
+    }
+  ]
+}

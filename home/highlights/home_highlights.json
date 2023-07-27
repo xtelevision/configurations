@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "id": "67523",
+      "key": "新浪资源",
+      "types": "动作片",
+      "title": "功夫",
+      "cover": "https://xinlangtupian.com/cover/169be908d18ff83896292dd6de0df58c.jpg"
+    },
+    {
+      "id": "37992",
+      "key": "新浪资源",
+      "types": "科幻片",
+      "title": "星际穿越",
+      "cover": "https://xinlangtupian.com/upload/vod/20220415-1/94b621a858eef55a2a22de60249a6a54.jpg"
+    },
+    {
+      "id": "76358",
+      "key": "新浪资源",
+      "types": "剧情片",
+      "title": "肖申克的救赎",
+      "cover": "https://xinlangtupian.com/cover/9a32593b6b1faea93bde76c43d1a8692.jpg"
+    },
+    {
+      "id": "94498",
+      "key": "新浪资源",
+      "types": "综艺",
+      "title": "奔跑吧 第七季",
+      "cover": "https://xinlangtupian.com/cover/35a56c3a743d11bf7908edc1f53482ba.jpg"
+    },
+    {
+      "id": "39239",
+      "key": "新浪资源",
+      "types": "剧情片",
+      "title": "少年派的奇幻漂流",
+      "cover": "https://xinlangtupian.com/upload/vod/20220415-1/b84260f402912b1d0f543245c1fcd15b.jpg"
+    }
+  ]
+}
