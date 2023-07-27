@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "tvid": "24",
+      "name": "凤凰香港",
+      "picUrl": "https://live.fanmingming.com/tv/凤凰卫视香港台.png"
+    },
+    {
+      "tvid": "25",
+      "name": "香港国际财经台",
+      "picUrl": "https://live.fanmingming.com/tv/香港国际财经台.png"
+    },
+    {
+      "tvid": "26",
+      "name": "香港卫视",
+      "picUrl": "https://live.fanmingming.com/tv/香港卫视.png"
+    }
+  ]
+}
