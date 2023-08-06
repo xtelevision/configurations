@@ -1,39 +1,46 @@
 {
   "data": [
     {
-      "id": "67523",
+      "id": "97659",
       "key": "新浪资源",
-      "types": "动作片",
-      "title": "功夫",
-      "cover": "https://xinlangtupian.com/cover/169be908d18ff83896292dd6de0df58c.jpg"
+      "types": "抢先版",
+      "title": "孤注一掷",
+      "cover": "https://xinlangtupian.com/cover/8c6dbe74136c6b99fdf23260b7b9f02b.jpg"
     },
     {
-      "id": "37992",
+      "id": "96431",
       "key": "新浪资源",
-      "types": "科幻片",
-      "title": "星际穿越",
-      "cover": "https://xinlangtupian.com/upload/vod/20220415-1/94b621a858eef55a2a22de60249a6a54.jpg"
+      "types": "高清版",
+      "title": "消失的她",
+      "cover": "https://xinlangtupian.com/cover/36ed6e6ed1415bdbbb65d53883df06b5.jpg"
     },
     {
-      "id": "76358",
+      "id": "97383",
       "key": "新浪资源",
-      "types": "剧情片",
-      "title": "肖申克的救赎",
-      "cover": "https://xinlangtupian.com/cover/9a32593b6b1faea93bde76c43d1a8692.jpg"
+      "types": "抢先版",
+      "title": "封神第一部：朝歌风云",
+      "cover": "https://xinlangtupian.com/cover/c471696beb14dcf27c43d37fe49f7250.jpg"
     },
     {
-      "id": "94498",
+      "id": "97616",
       "key": "新浪资源",
-      "types": "综艺",
-      "title": "奔跑吧 第七季",
-      "cover": "https://xinlangtupian.com/cover/35a56c3a743d11bf7908edc1f53482ba.jpg"
+      "types": "高清版",
+      "title": "巨齿鲨2：深渊",
+      "cover": "https://xinlangtupian.com/cover/1e1662a930daa0e9a8d51798bc991885.jpg"
     },
     {
-      "id": "39239",
+      "id": "95063",
       "key": "新浪资源",
-      "types": "剧情片",
-      "title": "少年派的奇幻漂流",
-      "cover": "https://xinlangtupian.com/upload/vod/20220415-1/b84260f402912b1d0f543245c1fcd15b.jpg"
+      "types": "超清版",
+      "title": "速度与激情10",
+      "cover": "https://xinlangtupian.com/cover/af727f4749d4bccd52b0d84bcd241a28.jpg"
+    },
+    {
+      "id": "97618",
+      "key": "新浪资源",
+      "types": "正片",
+      "title": "无间之战粤语",
+      "cover": "https://xinlangtupian.com/cover/9777196c15dbf154968bbb7564caa7a9.jpg"
     }
   ]
 }
