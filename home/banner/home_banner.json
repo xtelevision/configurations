@@ -46,9 +46,19 @@
       "note": "7.9",
       "types": "剧情 / 爱情 / 家庭",
       "title": "我爱你",
-      "description": "倪大红×惠英红×叶童×梁家辉 演绎黄昏催泪恋",
+      "description": "倪大红 × 惠英红 × 叶童 × 梁家辉 演绎黄昏催泪恋",
       "cover": "https://raw.githubusercontent.com/xtelevision/configurations/main/home/banner/5.jpg",
       "area": "2023 / 中国大陆 / 中国香港 / 116分钟"
+    },
+    {
+      "id": "97441",
+      "key": "新浪资源",
+      "note": "7.9",
+      "types": "喜剧 / 动作 / 惊悚 / 冒险",
+      "title": "狂怒沙暴",
+      "description": "成龙大哥 × 约翰·塞纳 实力打星联手上演高燃嬉笑动作戏",
+      "cover": "https://raw.githubusercontent.com/xtelevision/configurations/main/home/banner/6.jpg",
+      "area": "2023 / 中国大陆 / 美国 / 102分钟"
     }
   ]
 }
