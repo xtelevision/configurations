@@ -304,6 +304,20 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
 #EXTINF:-1 group-title="国外频道",韩·职业
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="国外频道",韩·Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="国外频道",韩·EBS1
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="国外频道",韩·EBS2
+http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="国外频道",韩·EBSe
+http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="国外频道",韩·KCTV
+http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+#EXTINF:-1 group-title="国外频道",韩·MBC综合频道
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 group-title="国外频道",韩·NBS Korea Agricultural Broadc
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="国外频道",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="国外频道",CGTN阿语
@@ -416,33 +430,19 @@ http://51.210.199.22/hls/stream.m3u8
 http://51.210.199.24/hls/stream.m3u8
 #EXTINF:-1 group-title="国外频道",Nostalgia
 http://51.210.199.20/hls/stream.m3u8
-#EXTINF:-1 group-title="国外频道",韩国-Arirang
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="国外频道",韩国-EBS1
-http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="国外频道",韩国-EBS2
-http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="国外频道",韩国-EBSe
-http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="国外频道",韩国-KCTV
-http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-#EXTINF:-1 group-title="国外频道",韩国-MBC综合频道
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 group-title="国外频道",韩国-NBS Korea Agricultural Broadc
-https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="国外频道",日本购物1
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1 group-title="国外频道",越南-VBSTV
+#EXTINF:-1 group-title="国外频道",越南·VBSTV
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
-#EXTINF:-1 group-title="国外频道",印尼-TVRISports
+#EXTINF:-1 group-title="国外频道",印尼·TVRISports
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="国外频道",印尼-TVRIKanal3
+#EXTINF:-1 group-title="国外频道",印尼·TVRIKanal3
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="国外频道",印尼-METROTV
+#EXTINF:-1 group-title="国外频道",印尼·METROTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1 group-title="国外频道",伊朗-PBCTapeshTV
+#EXTINF:-1 group-title="国外频道",伊朗·PBCTapeshTV
 http://iptv.tapesh.tv/tapesh/playlist.m3u8
-#EXTINF:-1 group-title="国外频道",伊拉克-SharqiyaNews
+#EXTINF:-1 group-title="国外频道",伊拉克·SharqiyaNews
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 group-title="国外频道",长城精品
 http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
