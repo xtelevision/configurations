@@ -34,46 +34,6 @@
       "tvid": "7",
       "name": "CCTV7",
       "picUrl": "https://live.fanmingming.com/tv/CCTV7.png"
-    },
-    {
-      "tvid": "8",
-      "name": "CCTV8",
-      "picUrl": "https://live.fanmingming.com/tv/CCTV8.png"
-    },
-    {
-      "tvid": "9",
-      "name": "CCTV9",
-      "picUrl": "https://live.fanmingming.com/tv/CCTV9.png"
-    },
-    {
-      "tvid": "10",
-      "name": "CCTV10",
-      "picUrl": "https://live.fanmingming.com/tv/CCTV10.png"
-    },
-    {
-      "tvid": "11",
-      "name": "CCTV11",
-      "picUrl": "https://live.fanmingming.com/tv/CCTV11.png"
-    },
-    {
-      "tvid": "12",
-      "name": "CCTV12",
-      "picUrl": "https://live.fanmingming.com/tv/CCTV12.png"
-    },
-    {
-      "tvid": "13",
-      "name": "CCTV13",
-      "picUrl": "https://live.fanmingming.com/tv/CCTV13.png"
-    },
-    {
-      "tvid": "14",
-      "name": "CCTV14",
-      "picUrl": "https://live.fanmingming.com/tv/CCTV14.png"
-    },
-    {
-      "tvid": "15",
-      "name": "CCTV15",
-      "picUrl": "https://live.fanmingming.com/tv/CCTV15.png"
     }
   ]
 }
