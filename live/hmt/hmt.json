@@ -14,6 +14,26 @@
       "tvid": "17",
       "name": "J2台",
       "picUrl": "https://live.fanmingming.com/tv/TVBJ2.png"
+    },
+    {
+      "tvid": "18",
+      "name": "无线新闻台",
+      "picUrl": "https://live.fanmingming.com/tv/无线新闻台.png"
+    },
+    {
+      "tvid": "19",
+      "name": "台·民视新闻",
+      "picUrl": "https://live.fanmingming.com/tv/民视新闻台.png"
+    },
+    {
+      "tvid": "20",
+      "name": "RTHK31",
+      "picUrl": "https://live.fanmingming.com/tv/RTHK31.png"
+    },
+    {
+      "tvid": "21",
+      "name": "RTHK32",
+      "picUrl": "https://live.fanmingming.com/tv/RTHK32.png"
     }
   ]
 }
