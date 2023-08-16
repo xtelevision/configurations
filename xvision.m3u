@@ -266,7 +266,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-202153516
 http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 group-title="国外频道",日·全天新闻
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 group-title="国外频道",日·NHK
+#EXTINF:-1 tvg-id="日·NHK" tvg-name="日·NHK" tvg-logo="https://live.fanmingming.com/tv/NHKWORLD.png" group-title="国外频道",日·NHK
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="国外频道",日·QVC
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
