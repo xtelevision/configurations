@@ -3,42 +3,42 @@
     {
       "tvid": "27",
       "name": "日·NHK",
-      "picUrl": "https://live.fanmingming.com/tv/NHKWORLD.png"
+      "picUrl": "http://epg.51zmt.top:8000/tb1/gt/NHK.png"
     },
     {
       "tvid": "28",
       "name": "日·全天新闻",
-      "picUrl": ""
+      "picUrl": "https://ghproxy.com/https://raw.githubusercontent.com/xtelevision/configurations/main/live/overseas/日本全天新闻.png"
     },
     {
       "tvid": "29",
       "name": "韩·KBC",
-      "picUrl": ""
+      "picUrl": "https://ghproxy.com/https://raw.githubusercontent.com/xtelevision/configurations/main/live/overseas/韩KBC.png"
     },
     {
       "tvid": "30",
       "name": "韩·SBS",
-      "picUrl": ""
+      "picUrl": "https://ghproxy.com/https://raw.githubusercontent.com/xtelevision/configurations/main/live/overseas/韩SBS.png"
     },
     {
       "tvid": "31",
       "name": "俄·IGITV蓝光",
-      "picUrl": ""
+      "picUrl": "https://ghproxy.com/https://raw.githubusercontent.com/xtelevision/configurations/main/live/overseas/俄IGITV.png"
     },
     {
       "tvid": "32",
       "name": "俄·RBC",
-      "picUrl": ""
+      "picUrl": "https://ghproxy.com/https://raw.githubusercontent.com/xtelevision/configurations/main/live/overseas/俄RBC.png"
     },
     {
       "tvid": "33",
       "name": "美·NASA Public Channel",
-      "picUrl": ""
+      "picUrl": "https://ghproxy.com/https://raw.githubusercontent.com/xtelevision/configurations/main/live/overseas/美NPC.png"
     },
     {
       "tvid": "34",
       "name": "法·时尚",
-      "picUrl": ""
+      "picUrl": "https://ghproxy.com/https://raw.githubusercontent.com/xtelevision/configurations/main/live/overseas/法时尚.png"
     }
   ]
 }
