@@ -110,19 +110,19 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226212/1.m3u8
 http://[2409:8087:1e03:21::11]:6610/cms001/ch00000090990000001183/index.m3u8
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视",三沙卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8
-#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳台",无线新闻台
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="科学上网",无线新闻台
 http://sc2022.stream-link.org/tv2306.php?id=h04
-#EXTINF:-1 tvg-id="无线财经体育资讯" tvg-name="无线财经体育资讯" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png" group-title="港澳台",无线财经体育资讯
+#EXTINF:-1 tvg-id="无线财经体育资讯" tvg-name="无线财经体育资讯" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png" group-title="科学上网",无线财经体育资讯
 http://sc2022.stream-link.org/tv2306.php?id=h05
-#EXTINF:-1 tvg-id="Now新闻台" tvg-name="Now新闻台" tvg-logo="https://live.fanmingming.com/tv/NOW新闻台.png" group-title="港澳台",Now新闻台
+#EXTINF:-1 tvg-id="Now新闻台" tvg-name="Now新闻台" tvg-logo="https://live.fanmingming.com/tv/NOW新闻台.png" group-title="科学上网",Now新闻台
 http://sc2022.stream-link.org/tv2306.php?id=h08
-#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="港澳台",RTHK31
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="科学上网",RTHK31
 http://sc2022.stream-link.org/tv2306.php?id=h09
-#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港澳台",RTHK32
+#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="科学上网",RTHK32
 http://sc2022.stream-link.org/tv2306.php?id=h10
-#EXTINF:-1 tvg-id="香港国际财经台" tvg-name="香港国际财经台" tvg-logo="https://live.fanmingming.com/tv/香港国际财经台.png" group-title="港澳台",香港国际财经台
+#EXTINF:-1 tvg-id="香港国际财经台" tvg-name="香港国际财经台" tvg-logo="https://live.fanmingming.com/tv/香港国际财经台.png" group-title="科学上网",香港国际财经台
 http://sc2022.stream-link.org/tv2306.php?id=h13
-#EXTINF:-1 tvg-id="香港国际财经台" tvg-name="香港国际财经台" tvg-logo="https://live.fanmingming.com/tv/香港国际财经台.png" group-title="港澳台",香港国际财经台
+#EXTINF:-1 tvg-id="香港国际财经台" tvg-name="香港国际财经台" tvg-logo="https://live.fanmingming.com/tv/香港国际财经台.png" group-title="科学上网",香港国际财经台
 http://sc2022.stream-link.org/tv2306.php?id=h14
 #EXTINF:-1 group-title="港澳台",香港佛陀
 http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
