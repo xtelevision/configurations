@@ -2,37 +2,37 @@
   "data": [
     {
       "tvid": "1",
-      "name": "CCTV1",
+      "name": "CCTV-1 综合",
       "picUrl": "https://live.fanmingming.com/tv/CCTV1.png"
     },
     {
       "tvid": "2",
-      "name": "CCTV2",
+      "name": "CCTV-2 财经",
       "picUrl": "https://live.fanmingming.com/tv/CCTV2.png"
     },
     {
       "tvid": "3",
-      "name": "CCTV3",
+      "name": "CCTV-3 综艺",
       "picUrl": "https://live.fanmingming.com/tv/CCTV3.png"
     },
     {
       "tvid": "4",
-      "name": "CCTV4",
+      "name": "CCTV-4 中文国际",
       "picUrl": "https://live.fanmingming.com/tv/CCTV4.png"
     },
     {
       "tvid": "5",
-      "name": "CCTV5",
+      "name": "CCTV-5 体育",
       "picUrl": "https://live.fanmingming.com/tv/CCTV5.png"
     },
     {
       "tvid": "6",
-      "name": "CCTV6",
+      "name": "CCTV-6 电影",
       "picUrl": "https://live.fanmingming.com/tv/CCTV6.png"
     },
     {
       "tvid": "7",
-      "name": "CCTV7",
+      "name": "CCTV-7 国防军事",
       "picUrl": "https://live.fanmingming.com/tv/CCTV7.png"
     }
   ]
