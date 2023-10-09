@@ -1,6 +1,26 @@
 {
   "data": [
     {
+      "id": "98636",
+      "key": "新浪资源",
+      "note": "7.9",
+      "types": "剧情 / 古装",
+      "title": "兰闺喜事",
+      "description": "笑裂！“大娘子”嫁女选婿！",
+      "cover": "https://yc.cdn.media.ulivetv.net/media/other/2023-09-27/6f4b3f86f08d2e5a236adbcbe313bf0d.webp",
+      "area": "2023 / 大陆"
+    },
+    {
+      "id": "98571",
+      "key": "新浪资源",
+      "note": "7.9",
+      "types": "剧情 / 现代",
+      "title": "他从火光中走来",
+      "description": "留给黄景瑜出演的特种兵不多了！",
+      "cover": "https://yc.cdn.media.ulivetv.net/media/other/2023-09-27/71e0c5d08c8ec35222e3a146e16e9dd2.webp",
+      "area": "2023 / 大陆"
+    },
+    {
       "id": "97383",
       "key": "新浪资源",
       "note": "7.9",
@@ -31,34 +51,14 @@
       "area": "2023 / 共42集 / 大陆"
     },
     {
-      "id": "97265",
+      "id": "98164",
       "key": "新浪资源",
       "note": "5.3",
-      "types": "动作 / 犯罪",
-      "title": "零号追杀",
-      "description": "任达华安志杰双雄激战 新老特工巅峰枪战",
-      "cover": "https://raw.githubusercontent.com/xtelevision/configurations/main/home/banner/2.jpg",
-      "area": "2023 / 中国香港 / 108分钟"
-    },
-    {
-      "id": "94802",
-      "key": "新浪资源",
-      "note": "8.4",
-      "types": "喜剧 / 动作 / 科幻 / 惊悚 / 冒险",
-      "title": "银河护卫队3",
-      "description": "漫威今年最好的作品 没有之一",
-      "cover": "https://raw.githubusercontent.com/xtelevision/configurations/main/home/banner/3.jpg",
-      "area": "2023 / 美国 / 150分钟"
-    },
-    {
-      "id": "96717",
-      "key": "新浪资源",
-      "note": "6.5",
-      "types": "动作 / 犯罪",
-      "title": "犯罪都市3",
-      "description": "怪物刑警马东锡华丽回归 重拳出击打击犯罪",
-      "cover": "https://raw.githubusercontent.com/xtelevision/configurations/main/home/banner/4.jpg",
-      "area": "2023 / 韩国 / 105分钟"
+      "types": "动作 / 古装",
+      "title": "云之羽",
+      "description": "颜值杀、眼神杀……这波彻底被虞书欣和张凌赫拿捏了！",
+      "cover": "https://d3ifppxyz9sa2s.cloudfront.net/media/other/2023-09-08/1230676004ac05f233175b43a314ff0a.webp",
+      "area": "2023 / 大陆"
     }
   ]
 }
