@@ -1,39 +1,25 @@
 {
   "data": [
     {
-      "tvid": "15",
-      "name": "明珠台",
-      "picUrl": "https://live.fanmingming.com/tv/明珠台.png"
+      "name": "明珠台"
     },
     {
-      "tvid": "16",
-      "name": "香港卫视",
-      "picUrl": "https://live.fanmingming.com/tv/香港卫视.png"
+      "name": "香港卫视"
     },
     {
-      "tvid": "17",
-      "name": "翡翠台",
-      "picUrl": "https://live.fanmingming.com/tv/翡翠台.png"
+      "name": "翡翠台"
     },
     {
-      "tvid": "18",
-      "name": "无线新闻台",
-      "picUrl": "https://live.fanmingming.com/tv/无线新闻台.png"
+      "name": "无线新闻台"
     },
     {
-      "tvid": "19",
-      "name": "台·民视新闻",
-      "picUrl": "https://live.fanmingming.com/tv/民视新闻台.png"
+      "name": "台·民视新闻"
     },
     {
-      "tvid": "20",
-      "name": "RTHK31",
-      "picUrl": "https://live.fanmingming.com/tv/RTHK31.png"
+      "name": "RTHK31"
     },
     {
-      "tvid": "21",
-      "name": "RTHK32",
-      "picUrl": "https://live.fanmingming.com/tv/RTHK32.png"
+      "name": "RTHK32"
     }
   ]
 }

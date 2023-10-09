@@ -1,39 +1,25 @@
 {
   "data": [
     {
-      "tvid": "8",
-      "name": "湖南卫视",
-      "picUrl": "https://live.fanmingming.com/tv/湖南卫视.png"
+      "name": "湖南卫视"
     },
     {
-      "tvid": "9",
-      "name": "浙江卫视",
-      "picUrl": "https://live.fanmingming.com/tv/浙江卫视.png"
+      "name": "浙江卫视"
     },
     {
-      "tvid": "10",
-      "name": "北京卫视",
-      "picUrl": "https://live.fanmingming.com/tv/北京卫视.png"
+      "name": "北京卫视"
     },
     {
-      "tvid": "11",
-      "name": "东方卫视",
-      "picUrl": "https://live.fanmingming.com/tv/东方卫视.png"
+      "name": "东方卫视"
     },
     {
-      "tvid": "12",
-      "name": "江苏卫视",
-      "picUrl": "https://live.fanmingming.com/tv/江苏卫视.png"
+      "name": "江苏卫视"
     },
     {
-      "tvid": "13",
-      "name": "广东卫视",
-      "picUrl": "https://live.fanmingming.com/tv/广东卫视.png"
+      "name": "广东卫视"
     },
     {
-      "tvid": "14",
-      "name": "深圳卫视",
-      "picUrl": "https://live.fanmingming.com/tv/深圳卫视.png"
+      "name": "深圳卫视"
     }
   ]
 }
