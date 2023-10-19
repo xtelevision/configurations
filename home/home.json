@@ -1,0 +1,374 @@
+{
+  "cards": [
+    {
+      "name": "热播影视",
+      "cards": [
+        {
+          "id": "97659",
+          "key": "新浪资源",
+          "types": "抢先版",
+          "title": "孤注一掷",
+          "cover": "https://xinlangtupian.com/cover/8c6dbe74136c6b99fdf23260b7b9f02b.jpg"
+        },
+        {
+          "id": "96431",
+          "key": "新浪资源",
+          "types": "高清版",
+          "title": "消失的她",
+          "cover": "https://xinlangtupian.com/cover/36ed6e6ed1415bdbbb65d53883df06b5.jpg"
+        },
+        {
+          "id": "97383",
+          "key": "新浪资源",
+          "types": "抢先版",
+          "title": "封神第一部：朝歌风云",
+          "cover": "https://xinlangtupian.com/cover/c471696beb14dcf27c43d37fe49f7250.jpg"
+        },
+        {
+          "id": "97616",
+          "key": "新浪资源",
+          "types": "高清版",
+          "title": "巨齿鲨2：深渊",
+          "cover": "https://xinlangtupian.com/cover/1e1662a930daa0e9a8d51798bc991885.jpg"
+        },
+        {
+          "id": "95063",
+          "key": "新浪资源",
+          "types": "超清版",
+          "title": "速度与激情10",
+          "cover": "https://xinlangtupian.com/cover/af727f4749d4bccd52b0d84bcd241a28.jpg"
+        },
+        {
+          "id": "97618",
+          "key": "新浪资源",
+          "types": "正片",
+          "title": "无间之战粤语",
+          "cover": "https://xinlangtupian.com/cover/9777196c15dbf154968bbb7564caa7a9.jpg"
+        },
+        {
+          "id": "97395",
+          "key": "新浪资源",
+          "types": "抢先版",
+          "title": "芭比",
+          "cover": "https://xinlangtupian.com/cover/2f843a53f189c8c1e267615f76689e85.jpg"
+        },
+        {
+          "id": "96948",
+          "key": "新浪资源",
+          "types": "致命清算",
+          "title": "碟中谍7",
+          "cover": "https://xinlangtupian.com/cover/a6cdf7d7accdc2a5afc50c9ce763cbf2.jpg"
+        },
+        {
+          "id": "96282",
+          "key": "新浪资源",
+          "types": "黑铁的鱼影",
+          "title": "名侦探柯南",
+          "cover": "https://xinlangtupian.com/cover/8fae1017385f209b727c45cda5e956aa.jpg"
+        },
+        {
+          "id": "97165",
+          "key": "新浪资源",
+          "types": "粤语版",
+          "title": "木偶惊魂",
+          "cover": "https://xinlangtupian.com/cover/8f86e15bc763aa2b566e5b74829200a2.jpg"
+        }
+      ]
+    },
+    {
+      "name": "电影",
+      "cards": []
+    },
+    {
+      "name": "电视剧",
+      "cards": [
+        {
+          "id": "96652",
+          "key": "新浪资源",
+          "types": "肖战",
+          "title": "玉骨遥",
+          "cover": "https://xinlangtupian.com/cover/73338368669a521b1fff24d636c6bf7e.jpg"
+        },
+        {
+          "id": "97350",
+          "key": "新浪资源",
+          "types": "肖战",
+          "title": "长相思",
+          "cover": "https://xinlangtupian.com/cover/43ff4f89845dd903a719cfaf5392b9bc.jpg"
+        },
+        {
+          "id": "97471",
+          "key": "新浪资源",
+          "types": "严肃真实又深刻 大胆起底韩国军队黑暗面",
+          "title": "D.P：逃兵追缉令第二季",
+          "cover": "https://xinlangtupian.com/cover/c73f4d8f3e0c84920eef1464c4c73cb8.jpg"
+        },
+        {
+          "id": "97486",
+          "key": "新浪资源",
+          "types": "TVB视帝演出狱大毒枭 展连串复仇大计",
+          "title": "破毒强人",
+          "cover": "https://xinlangtupian.com/cover/e3ad7bdd4df4a7d9653820d9d67d4e49.jpg"
+        },
+        {
+          "id": "97316",
+          "key": "新浪资源",
+          "types": "成毅×曾舜晞×肖顺尧共闯江湖破奇案",
+          "title": "莲花楼",
+          "cover": "https://xinlangtupian.com/cover/d23f1d1cd4efe77dac5482f856a9d12d.jpg"
+        },
+        {
+          "id": "97018",
+          "key": "新浪资源",
+          "types": "迪丽热巴×龚俊双强宿命恋",
+          "title": "安乐传",
+          "cover": "https://xinlangtupian.com/cover/fd759db147415e8a49d1ed0dfdd22f81.jpg"
+        },
+        {
+          "id": "97153",
+          "key": "新浪资源",
+          "types": "逆袭 绝望主妇重启人生",
+          "title": "做自己的光",
+          "cover": "https://xinlangtupian.com/cover/2c439bc245533a95d51329968b9b26be.jpg"
+        },
+        {
+          "id": "97519",
+          "key": "新浪资源",
+          "types": "男人和女人的谎言故事",
+          "title": "没用的谎言",
+          "cover": "https://xinlangtupian.com/cover/cc5a46769eaf426715a42063b5d8feff.jpg"
+        },
+        {
+          "id": "93461",
+          "key": "新浪资源",
+          "types": "第二季",
+          "title": "黑暗荣耀",
+          "cover": "https://xinlangtupian.com/cover/c43ccefdf21cc037c57d54db312648ff.jpg"
+        },
+        {
+          "id": "94058",
+          "key": "新浪资源",
+          "types": "韩剧",
+          "title": "请回答1988",
+          "cover": "https://xinlangtupian.com/cover/1167a236249760ca8ab56caf3b125d5e.jpg"
+        }
+      ]
+    },
+    {
+      "name": "动漫",
+      "cards": [
+        {
+          "id": "66682",
+          "key": "新浪资源",
+          "types": "第九季",
+          "title": "小猪佩奇",
+          "cover": "https://xinlangtupian.com/upload/vod/20220909-1/0f5be51791adbc0e0f680f6c1964ee89.jpg"
+        },
+        {
+          "id": "61559",
+          "key": "卧龙资源",
+          "types": "动漫",
+          "title": "奇妙萌可之闪亮宝石",
+          "cover": "https://img.xmchwl.com:777/upload/vod/20230203-1/3fb4e8138595874c2c7eec0b1dccf7fd.webp"
+        },
+        {
+          "id": "95721",
+          "key": "新浪资源",
+          "types": "勇闯四季城",
+          "title": "喜羊羊与灰太狼",
+          "cover": "https://xinlangtupian.com/cover/1715a3a663307916bd96b966cdf2ee16.jpg"
+        },
+        {
+          "id": "36105",
+          "key": "新浪资源",
+          "types": "海底小纵队全球冒险",
+          "title": "海底小纵队",
+          "cover": "https://img.liangzipic.com/upload/vod/20221003-1/604be2d8654cb48d51940d0ab8b5ec73.jpg"
+        },
+        {
+          "id": "80772",
+          "key": "新浪资源",
+          "types": "第十二季",
+          "title": "超级飞侠",
+          "cover": "https://xinlangtupian.com/cover/2b9546fb885c5aa3a7802f895f56fe20.jpg"
+        },
+        {
+          "id": "84373",
+          "key": "新浪资源",
+          "types": "魔法星缘堡",
+          "title": "吧啦啦小魔仙",
+          "cover": "https://xinlangtupian.com/cover/297b51d372955449d68d0b67ffda8c80.jpg"
+        },
+        {
+          "id": "95981",
+          "key": "新浪资源",
+          "types": "喜剧片",
+          "title": "熊出没·伴我熊芯",
+          "cover": "https://xinlangtupian.com/cover/3ecf70058911d495069ec09c0c8c9190.jpg"
+        },
+        {
+          "id": "80821",
+          "key": "新浪资源",
+          "types": "第三季",
+          "title": "宝贝赳赳",
+          "cover": "https://xinlangtupian.com/cover/ddf26bf6c716f9ad2d1b05a321e4b5b8.jpg"
+        },
+        {
+          "id": "46368",
+          "key": "新浪资源",
+          "types": "拯救恐龙王",
+          "title": "迷你特工队",
+          "cover": "https://xinlangtupian.com/upload/vod/20220422-1/fcca6fdcc623c8a12f5f6299b4e843a3.jpg"
+        },
+        {
+          "id": "96340",
+          "key": "新浪资源",
+          "types": "超级赛车",
+          "title": "新猪猪侠大电影",
+          "cover": "https://xinlangtupian.com/cover/2a384b15e8016b260de6ef70a54dbd22.jpg"
+        }
+      ]
+    },
+    {
+      "name": "综艺",
+      "cards": [
+        {
+          "id": "97453",
+          "key": "新浪资源",
+          "types": "薛之谦刘宪华双簧演奏",
+          "title": "中国好声音2023",
+          "cover": "https://xinlangtupian.com/cover/206116d9f79049ae26fe3c8d62f135ff.jpg"
+        },
+        {
+          "id": "95371",
+          "key": "新浪资源",
+          "types": "帅炸 王鹤棣投篮百发百中",
+          "title": "五十公里桃花坞3",
+          "cover": "https://xinlangtupian.com/cover/abb2e494d8466016a029303922ed70b8.jpg"
+        },
+        {
+          "id": "94720",
+          "key": "新浪资源",
+          "types": "终极对决 年度乘风席位即将揭晓",
+          "title": "乘风2023",
+          "cover": "https://xinlangtupian.com/cover/e428d5580f729d23e6070e43c492e424.jpg"
+        },
+        {
+          "id": "67776",
+          "key": "量子资源",
+          "types": "王嘉尔担任创意总监 看00后霸总逐梦演艺圈",
+          "title": "舞台2023",
+          "cover": "https://img.liangzipic.com/upload/vod/20230729-1/c5a3c8eaf7ab5a19ccd344b9f64526bc.jpg"
+        },
+        {
+          "id": "94498",
+          "key": "新浪资源",
+          "types": "静候多日 今日复播",
+          "title": "奔跑吧第七季",
+          "cover": "https://xinlangtupian.com/cover/35a56c3a743d11bf7908edc1f53482ba.jpg"
+        },
+        {
+          "id": "95928",
+          "key": "新浪资源",
+          "types": "第一季",
+          "title": "经典老车大翻修",
+          "cover": "https://xinlangtupian.com/cover/0fc6501ceba7a1a161d3e0bd943ee6ae.jpg"
+        },
+        {
+          "id": "96098",
+          "key": "新浪资源",
+          "types": "第二季",
+          "title": "TheZone：坚持才能活下去",
+          "cover": "https://xinlangtupian.com/cover/ab595f238897729d613c70bb698d3949.jpg"
+        },
+        {
+          "id": "65596",
+          "key": "卧龙资源",
+          "types": "日本综艺",
+          "title": "夜夜奇妙馆",
+          "cover": "https://img.xmchwl.com:777/upload/vod/20230516-1/ca079760e05ff9fa8e4233787ed0aa6d.jpeg"
+        },
+        {
+          "id": "65690",
+          "key": "卧龙资源",
+          "types": "港台综艺",
+          "title": "全民造星5",
+          "cover": "https://img.xmchwl.com:777/upload/vod/20230523-1/87ec141620b2d908934894ae42242d5d.jpg"
+        },
+        {
+          "id": "97392",
+          "key": "新浪资源",
+          "types": "第六季",
+          "title": "心动的信号",
+          "cover": "https://xinlangtupian.com/cover/dedaeedfd0cbd8920d5bffb550d1de2b.jpg"
+        }
+      ]
+    },
+    {
+      "name": "纪录片",
+      "cards": []
+    }
+  ],
+  "headers": [
+    {
+      "id": "98636",
+      "key": "新浪资源",
+      "note": "7.9",
+      "types": "剧情 / 古装",
+      "title": "兰闺喜事",
+      "description": "笑裂！“大娘子”嫁女选婿！",
+      "cover": "https://yc.cdn.media.ulivetv.net/media/other/2023-09-27/6f4b3f86f08d2e5a236adbcbe313bf0d.webp",
+      "area": "2023 / 大陆"
+    },
+    {
+      "id": "98571",
+      "key": "新浪资源",
+      "note": "7.9",
+      "types": "剧情 / 现代",
+      "title": "他从火光中走来",
+      "description": "留给黄景瑜出演的特种兵不多了！",
+      "cover": "https://yc.cdn.media.ulivetv.net/media/other/2023-09-27/71e0c5d08c8ec35222e3a146e16e9dd2.webp",
+      "area": "2023 / 大陆"
+    },
+    {
+      "id": "97383",
+      "key": "新浪资源",
+      "note": "7.9",
+      "types": "剧情 / 古装",
+      "title": "封神第一部：朝歌风云",
+      "description": "费翔率领封神“质子团”燃爆出征",
+      "cover": "https://yc.cdn.media.ulivetv.net/media/other/2023-09-22/febe309e76d372a534e48b1ada77955a.webp",
+      "area": "2023 / 大陆"
+    },
+    {
+      "id": "97395",
+      "key": "新浪资源",
+      "note": "8.1",
+      "types": "剧情 / 喜剧",
+      "title": "芭比",
+      "description": "年度黑马、今年全球票房排名第二的电影，把男人从头骂到尾",
+      "cover": "https://d3ifppxyz9sa2s.cloudfront.net/media/other/2023-09-19/82d8db576f23df019954c17b4cbecc35.webp",
+      "area": "2023 / 欧美"
+    },
+    {
+      "id": "98061",
+      "key": "新浪资源",
+      "note": "7.2",
+      "types": "剧情 / 爱情",
+      "title": "蜂巢",
+      "description": "宋轶领衔谍战剧，零宣发空降开播，收视率登顶",
+      "cover": "https://d3ifppxyz9sa2s.cloudfront.net/media/other/2023-09-13/597655f1237b9ed70a597754670ae4c1.webp",
+      "area": "2023 / 共42集 / 大陆"
+    },
+    {
+      "id": "98164",
+      "key": "新浪资源",
+      "note": "5.3",
+      "types": "动作 / 古装",
+      "title": "云之羽",
+      "description": "颜值杀、眼神杀……这波彻底被虞书欣和张凌赫拿捏了！",
+      "cover": "https://d3ifppxyz9sa2s.cloudfront.net/media/other/2023-09-08/1230676004ac05f233175b43a314ff0a.webp",
+      "area": "2023 / 大陆"
+    }
+  ]
+}
