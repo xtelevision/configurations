@@ -77,7 +77,15 @@
     },
     {
       "name": "电影",
-      "cards": []
+      "cards": [
+        {
+          "id": "97486",
+          "key": "新浪资源",
+          "types": "TVB视帝演出狱大毒枭 展连串复仇大计",
+          "title": "破毒强人",
+          "cover": "https://xinlangtupian.com/cover/e3ad7bdd4df4a7d9653820d9d67d4e49.jpg"
+        }
+      ]
     },
     {
       "name": "电视剧",
@@ -306,7 +314,15 @@
     },
     {
       "name": "纪录片",
-      "cards": []
+      "cards": [
+        {
+          "id": "97486",
+          "key": "新浪资源",
+          "types": "TVB视帝演出狱大毒枭 展连串复仇大计",
+          "title": "破毒强人",
+          "cover": "https://xinlangtupian.com/cover/e3ad7bdd4df4a7d9653820d9d67d4e49.jpg"
+        }
+      ]
     }
   ],
   "headers": [
