@@ -103,64 +103,64 @@
   ],
   "headers": [
     {
-      "name": "兰闺喜事",
       "id": "98636",
+      "label": "剧情 / 古装",
+      "countStr": "2023 / 大陆",
+      "name": "兰闺喜事",
       "key": "新浪资源",
       "note": "7.9",
-      "types": "剧情 / 古装",
       "description": "笑裂！“大娘子”嫁女选婿！",
-      "cover": "https://yc.cdn.media.ulivetv.net/media/other/2023-09-27/6f4b3f86f08d2e5a236adbcbe313bf0d.webp",
-      "area": "2023 / 大陆"
+      "cover": "https://yc.cdn.media.ulivetv.net/media/other/2023-09-27/6f4b3f86f08d2e5a236adbcbe313bf0d.webp"
     },
     {
-      "name": "他从火光中走来",
       "id": "98571",
+      "label": "剧情 / 现代",
+      "countStr": "2023 / 大陆",
+      "name": "他从火光中走来",
       "key": "新浪资源",
       "note": "7.9",
-      "types": "剧情 / 现代",
       "description": "留给黄景瑜出演的特种兵不多了！",
-      "cover": "https://yc.cdn.media.ulivetv.net/media/other/2023-09-27/71e0c5d08c8ec35222e3a146e16e9dd2.webp",
-      "area": "2023 / 大陆"
+      "cover": "https://yc.cdn.media.ulivetv.net/media/other/2023-09-27/71e0c5d08c8ec35222e3a146e16e9dd2.webp"
     },
     {
-      "name": "封神第一部：朝歌风云",
       "id": "97383",
+      "label": "剧情 / 古装",
+      "countStr": "2023 / 大陆",
+      "name": "封神第一部：朝歌风云",
       "key": "新浪资源",
       "note": "7.9",
-      "types": "剧情 / 古装",
       "description": "费翔率领封神“质子团”燃爆出征",
-      "cover": "https://yc.cdn.media.ulivetv.net/media/other/2023-09-22/febe309e76d372a534e48b1ada77955a.webp",
-      "area": "2023 / 大陆"
+      "cover": "https://yc.cdn.media.ulivetv.net/media/other/2023-09-22/febe309e76d372a534e48b1ada77955a.webp"
     },
     {
-      "name": "芭比",
       "id": "97395",
+      "label": "剧情 / 喜剧",
+      "countStr": "2023 / 欧美",
+      "name": "芭比",
       "key": "新浪资源",
       "note": "8.1",
-      "types": "剧情 / 喜剧",
       "description": "年度黑马、今年全球票房排名第二的电影，把男人从头骂到尾",
-      "cover": "https://d3ifppxyz9sa2s.cloudfront.net/media/other/2023-09-19/82d8db576f23df019954c17b4cbecc35.webp",
-      "area": "2023 / 欧美"
+      "cover": "https://d3ifppxyz9sa2s.cloudfront.net/media/other/2023-09-19/82d8db576f23df019954c17b4cbecc35.webp"
     },
     {
-      "name": "蜂巢",
       "id": "98061",
+      "label": "剧情 / 爱情",
+      "countStr": "2023 / 共42集 / 大陆",
+      "name": "蜂巢",
       "key": "新浪资源",
       "note": "7.2",
-      "types": "剧情 / 爱情",
       "description": "宋轶领衔谍战剧，零宣发空降开播，收视率登顶",
-      "cover": "https://d3ifppxyz9sa2s.cloudfront.net/media/other/2023-09-13/597655f1237b9ed70a597754670ae4c1.webp",
-      "area": "2023 / 共42集 / 大陆"
+      "cover": "https://d3ifppxyz9sa2s.cloudfront.net/media/other/2023-09-13/597655f1237b9ed70a597754670ae4c1.webp"
     },
     {
-      "name": "云之羽",
       "id": "98164",
+      "label": "动作 / 古装",
+      "countStr": "2023 / 大陆",
+      "name": "云之羽",
       "key": "新浪资源",
       "note": "5.3",
-      "types": "动作 / 古装",
       "description": "颜值杀、眼神杀……这波彻底被虞书欣和张凌赫拿捏了！",
-      "cover": "https://d3ifppxyz9sa2s.cloudfront.net/media/other/2023-09-08/1230676004ac05f233175b43a314ff0a.webp",
-      "area": "2023 / 大陆"
+      "cover": "https://d3ifppxyz9sa2s.cloudfront.net/media/other/2023-09-08/1230676004ac05f233175b43a314ff0a.webp"
     }
   ]
 }
