@@ -714,9 +714,7 @@
       "picImg": "https://yc.cdn.media.ulivetv.net/media/img/2023-09-26/091c92c540579b5fecb79542846c1113.webp",
       "startTime": 1697126400,
       "endTime": 1701273600,
-      "url": "https://aws.ulivetv.net/v3/api/dianbo/m3u8/649147_kk.m3u8",
-      "key": "新浪资源",
-      "note": "7.9"
+      "url": "https://aws.ulivetv.net/v3/api/dianbo/m3u8/649147_kk.m3u8"
     },
     {
       "id": 96948,
@@ -728,9 +726,7 @@
       "picImg": "https://yc.cdn.media.ulivetv.net/media/img/2023-07-12/50cc4c79071254abd01154ae8f082bcc.webp",
       "startTime": 1696867200,
       "endTime": 1701273600,
-      "url": "",
-      "key": "新浪资源",
-      "note": "7.9"
+      "url": ""
     },
     {
       "id": "98636",
@@ -742,9 +738,7 @@
       "picImg": "https://yc.cdn.media.ulivetv.net/media/img/2023-09-22/f0320e366635529e9ce2bc53059ddb15.webp",
       "startTime": 1696348800,
       "endTime": 1698681600,
-      "url": "",
-      "key": "新浪资源",
-      "note": "7.9"
+      "url": ""
     },
     {
       "id": "98571",
@@ -756,9 +750,7 @@
       "picImg": "https://yc.cdn.media.ulivetv.net/media/img/2023-09-19/6eeadfb1c0daa47d9bdba47c6412e350.webp",
       "startTime": 1695830400,
       "endTime": 1698681600,
-      "url": "",
-      "key": "新浪资源",
-      "note": "7.9"
+      "url": ""
     },
     {
       "id": "97383",
@@ -770,9 +762,7 @@
       "picImg": "https://yc.cdn.media.ulivetv.net/media/img/2023-07-27/e25e3f6883acb2cd594e1cfef5b9c30a.webp",
       "startTime": 1695312000,
       "endTime": 1698681600,
-      "url": "https://aws.ulivetv.net/v3/api/dianbo/m3u8/498736_kk.m3u8",
-      "key": "新浪资源",
-      "note": "7.9"
+      "url": "https://aws.ulivetv.net/v3/api/dianbo/m3u8/498736_kk.m3u8"
     },
     {
       "id": "98245",
@@ -784,9 +774,7 @@
       "picImg": "https://yc.cdn.media.ulivetv.net/media/img/2023-05-18/1bc7d4db4e49c03836264e0b161fd8e7.webp",
       "startTime": 1694448000,
       "endTime": 1698681600,
-      "url": "",
-      "key": "新浪资源",
-      "note": "7.9"
+      "url": ""
     }
   ]
 }
