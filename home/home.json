@@ -215,7 +215,7 @@
   ],
   "headers": [
     {
-      "id": 110496,
+      "id": 97655,
       "label": "",
       "countStr": "2023 / 欧美",
       "focusName": "飙车，但是你来当赛车手！",
@@ -224,10 +224,12 @@
       "picImg": "https://yc.cdn.media.ulivetv.net/media/img/2023-09-26/091c92c540579b5fecb79542846c1113.webp",
       "startTime": 1697126400,
       "endTime": 1701273600,
-      "url": "https://aws.ulivetv.net/v3/api/dianbo/m3u8/649147_kk.m3u8"
+      "url": "https://aws.ulivetv.net/v3/api/dianbo/m3u8/649147_kk.m3u8",
+      "key": "新浪资源",
+      "note": "7.9"
     },
     {
-      "id": 82615,
+      "id": 96948,
       "label": "动作 / 惊悚 / 冒险",
       "countStr": "2023 / 欧美",
       "focusName": "年过六旬的阿汤哥，依旧在挑战玩命极限！",
@@ -236,7 +238,9 @@
       "picImg": "https://yc.cdn.media.ulivetv.net/media/img/2023-07-12/50cc4c79071254abd01154ae8f082bcc.webp",
       "startTime": 1696867200,
       "endTime": 1701273600,
-      "url": ""
+      "url": "",
+      "key": "新浪资源",
+      "note": "7.9"
     },
     {
       "id": "98636",
@@ -281,34 +285,18 @@
       "note": "7.9"
     },
     {
-      "id": "97395",
-      "label": "剧情 / 喜剧",
-      "countStr": "2023 / 欧美",
-      "focusName": "年度黑马、今年全球票房排名第二的电影，把男人从头骂到尾",
-      "name": "芭比",
-      "posterImg": "https://d3ifppxyz9sa2s.cloudfront.net/media/other/2023-09-19/82d8db576f23df019954c17b4cbecc35.webp",
-      "key": "新浪资源",
-      "note": "8.1"
-    },
-    {
-      "id": "98061",
-      "label": "剧情 / 爱情",
-      "countStr": "2023 / 共42集 / 大陆",
-      "focusName": "宋轶领衔谍战剧，零宣发空降开播，收视率登顶",
-      "name": "蜂巢",
-      "posterImg": "https://d3ifppxyz9sa2s.cloudfront.net/media/other/2023-09-13/597655f1237b9ed70a597754670ae4c1.webp",
-      "key": "新浪资源",
-      "note": "7.2"
-    },
-    {
-      "id": "98164",
-      "label": "动作 / 古装",
+      "id": "98245",
+      "label": "剧情 / 爱情 / 悬疑 / 冒险",
       "countStr": "2023 / 大陆",
-      "focusName": "颜值杀、眼神杀……这波彻底被虞书欣和张凌赫拿捏了！",
-      "name": "云之羽",
-      "posterImg": "https://d3ifppxyz9sa2s.cloudfront.net/media/other/2023-09-08/1230676004ac05f233175b43a314ff0a.webp",
+      "focusName": "白宇干练，倪妮飒爽，主打演技对飚的异域冒险！",
+      "name": "西出玉门",
+      "posterImg": "https://d3ifppxyz9sa2s.cloudfront.net/media/other/2023-09-12/0aab2c2548f8940def1015e99033c9d0.webp",
+      "picImg": "https://yc.cdn.media.ulivetv.net/media/img/2023-05-18/1bc7d4db4e49c03836264e0b161fd8e7.webp",
+      "startTime": 1694448000,
+      "endTime": 1698681600,
+      "url": "",
       "key": "新浪资源",
-      "note": "5.3"
+      "note": "7.9"
     }
   ]
 }
