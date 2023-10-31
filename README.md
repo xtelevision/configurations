@@ -1,2 +1,2 @@
-# configurations
-Configurations 4 Television
+# Configurations
+Configurations For X Television
