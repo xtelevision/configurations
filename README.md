@@ -1,2 +1,2 @@
 # Configurations
-Configurations For X Television
+Configurations For X vision
