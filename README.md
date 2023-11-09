@@ -1,2 +1,2 @@
 # Configurations
-Configurations For X vision
+Configurations For Xvision
