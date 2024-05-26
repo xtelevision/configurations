@@ -22,6 +22,7 @@ rtsp://10.11.43.21/PLTV/88888912/224/3221226450/10000100000000060000000000870191
 rtsp://10.11.43.21/PLTV/88888912/224/3221226702/426212000.smil
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6 电影
@@ -154,6 +155,10 @@ http://[2409:8087:1e03:21::11]:6610/cms001/ch00000090990000001183/index.m3u8
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳",凤凰中文
 https://pi.0472.org/tv/fhzw.php?auth=231122
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳",凤凰卫视资讯台
+http://113.64.145.91:8081/hls/36/index.m3u8
+#EXTINF:-1 tvg-id="凤凰中文香港台" tvg-name="凤凰中文香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文香港台.png" group-title="港澳",凤凰中文香港台
+http://113.64.145.91:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳",翡翠台
 https://pi.0472.org/tv/fct.php?auth=231122
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳",明珠台
